@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1353747460 source:c:\users\enzo roiz\dropbox\faculdade\semestre ii\aeds iii\nova pasta\tp0 - quadtree com ·rvore\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1364273503 
+
+1364225716 source:c:\users\enzo roiz\dropbox\faculdade\semestre ii\aeds iii\tp0 - quadtree - ¡rvore\tp0 - quadtree com ·rvore\main.c
+	"quadtree.h"
+	<stdio.h>
+	<stdlib.h>
+
+1364270465 source:c:\users\enzo roiz\dropbox\faculdade\semestre ii\aeds iii\tp0 - quadtree - ¡rvore\tp0 - quadtree com ·rvore\quadtree.c
+	"quadtree.h"
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
+1364273503 c:\users\enzo roiz\dropbox\faculdade\semestre ii\aeds iii\tp0 - quadtree - ¡rvore\tp0 - quadtree com ·rvore\quadtree.h
+	<stdio.h>
+	<stdlib.h>
+
+1364225716 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP0 - Quadtree - √Årvore/TP0 - Quadtree com √°rvore/main.c
+	"quadtree.h"
+	<stdio.h>
+	<stdlib.h>
+
+1364298748 /home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP0 - Quadtree - √Årvore/TP0 - Quadtree com √°rvore/quadtree.h
+	<stdio.h>
+	<stdlib.h>
+
+1364301543 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP0 - Quadtree - √Årvore/TP0 - Quadtree com √°rvore/quadtree.c
+	"quadtree.h"
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
+1364225716 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP0 - Quadtree - √Årvore/TP0 - Imprimindo Lento/main.c
+	"quadtree.h"
+	<stdio.h>
+	<stdlib.h>
+
+1364351195 /home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP0 - Quadtree - √Årvore/TP0 - Imprimindo Lento/quadtree.h
+	<stdio.h>
+	<stdlib.h>
+
+1364360089 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP0 - Quadtree - √Årvore/TP0 - Imprimindo Lento/quadtree.c
+	"quadtree.h"
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
+1364225716 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP0/TP0 - Quadtree - √Årvore/TP0 - Imprimindo Lento/main.c
+	"quadtree.h"
+	<stdio.h>
+	<stdlib.h>
+
+1364351195 /home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP0/TP0 - Quadtree - √Årvore/TP0 - Imprimindo Lento/quadtree.h
+	<stdio.h>
+	<stdlib.h>
+
+1364361053 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP0/TP0 - Quadtree - √Årvore/TP0 - Imprimindo Lento/quadtree.c
+	"quadtree.h"
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
+1364425467 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP0/TP0 - Quadtree - √Årvore/TP0 - Pronto/main.c
+	"quadtree.h"
+	<stdio.h>
+	<stdlib.h>
+
+1364397466 /home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP0/TP0 - Quadtree - √Årvore/TP0 - Pronto/quadtree.h
+	<stdio.h>
+	<stdlib.h>
+
+1364424568 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP0/TP0 - Quadtree - √Årvore/TP0 - Pronto/quadtree.c
+	"quadtree.h"
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
+1364424568 source:c:\users\enzo roiz\dropbox\faculdade\semestre ii\aeds iii\tp0\tp0 - quadtree - ¡rvore\tp0 - pronto\quadtree.c
+	"quadtree.h"
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
+1364397466 c:\users\enzo roiz\dropbox\faculdade\semestre ii\aeds iii\tp0\tp0 - quadtree - ¡rvore\tp0 - pronto\quadtree.h
+	<stdio.h>
+	<stdlib.h>
+
+1364425467 source:c:\users\enzo roiz\dropbox\faculdade\semestre ii\aeds iii\tp0\tp0 - quadtree - ¡rvore\tp0 - pronto\main.c
+	"quadtree.h"
+	<stdio.h>
+	<stdlib.h>
+
+1364771288 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP0/TP0 - Quadtree - √Årvore/TP0 - Pronto/main.c
+	"quadtree.h"
+	<stdio.h>
+	<stdlib.h>
+
+1364709926 /home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP0/TP0 - Quadtree - √Årvore/TP0 - Pronto/quadtree.h
+	<stdio.h>
+	<stdlib.h>
+
+1364709912 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP0/TP0 - Quadtree - √Årvore/TP0 - Pronto/quadtree.c
+	"quadtree.h"
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
